@@ -2,7 +2,7 @@
 
 Udacity Project 2: Traffic Sign Classifier
 
-Convolutional Neural Net following the LENET model
-Added a third conv layer + max pooling
-With a batch size of 32 for 50 epochs, accuracy is ~ 92-95%.
-Project in progress...
+Convolutional Neural Net to classify German traffic signs. 
+NN is based on the LeNet model, with many changes
+With a batch size of 64 for 15 epochs, Validation accuracy is > 97%
+
